@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Airgap</title>
+        <link>https://appgram.github.io/airgap/appcast.xml</link>
+        <description>Airgap release feed</description>
+        <language>en</language>
+    </channel>
+</rss>
