@@ -1,6 +1,6 @@
 # Airgap
 
-Local, offline, on-device document QA for macOS.
+Local, offline, on-device document RAG for macOS.
 
 ## Download
 
