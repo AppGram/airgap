@@ -32,7 +32,7 @@ No accounts. No servers. No telemetry. The model, the index, and your documents 
 
 - **100% on-device.** Ingest, embed, retrieve, and generate — all local. Works with Wi-Fi off.
 - **Precise citations.** Answers cite specific paragraphs, with page numbers and bounding-box highlights on the PDF pane.
-- **Bring your own model.** Use Apple Intelligence out of the box, or load any MLX-compatible model (Llama, Qwen, Mistral, and more).
+- **Bring your own model.** Run any MLX-compatible open-weight model locally (Llama, Qwen, Mistral, and more). On macOS 26 with Apple Intelligence enabled, the built-in system model works too.
 - **Structure-aware ingest.** Understands headings, lists, tables, and figures — chunks respect document hierarchy.
 - **Multi-format.** PDFs, Markdown, and plain text.
 - **Encrypted vaults at rest.** Per-vault AES-GCM key stored in the macOS Keychain; sensitive sidecars are never written in the clear.
@@ -57,7 +57,7 @@ Gatekeeper will let it through on first launch — no right-click-open required.
 | **Chip**   | Apple Silicon (M1 or newer) |
 | **Disk**   | ~2 GB free for the app + embedding model; more if you load a large MLX model |
 
-Apple Intelligence works out of the box on supported hardware. MLX models are downloaded on first use and cached locally.
+**Language-model backend.** Airgap runs MLX models on any supported Mac (macOS 14+) — pick from Llama, Qwen, Mistral, and other open-weight models; each is downloaded once and cached locally. On **macOS 26** with Apple Intelligence enabled, the built-in Apple system model is available as an additional zero-download backend.
 
 ## Auto-updates
 
