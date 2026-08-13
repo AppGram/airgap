@@ -22,6 +22,20 @@ Ask questions about your documents. Get precise answers with page-level citation
 
 ---
 
+## Demo
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=H0Fhbs4S4XY">
+  <img src="https://img.youtube.com/vi/H0Fhbs4S4XY/maxresdefault.jpg" alt="Watch the Airgap demo" width="900" />
+</a>
+
+**[▶ Watch the demo](https://www.youtube.com/watch?v=H0Fhbs4S4XY)**
+
+</div>
+
+---
+
 ## What it is
 
 Airgap is a fully offline document assistant. Point it at your PDFs, Markdown, or plain-text files, and it builds a private vector index on your Mac. Your queries run against a local language model — either Apple Intelligence or an MLX model of your choice — and every answer is grounded in citations you can click straight back to the source page.
