@@ -6,14 +6,11 @@
             <title>0.3.1</title>
             <pubDate>Thu, 13 Aug 2026 15:56:49 +0200</pubDate>
             <link>https://github.com/appgram/airgap/releases/tag/v0.3.1</link>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/appgram/airgap/releases/download/v0.3.1/Airgap-0.3.1.dmg" length="90392945" type="application/octet-stream" sparkle:edSignature="scP720023w6F7LMzm0LSSg1mTkkmJSP0ILlOKofKKzh5fn4HVZeOeEat5aI+Ej76rsKgI8vxVhGGcWYeIXHGAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/appgram/airgap/releases/download/v0.3.1/Airgap2-1.delta" sparkle:deltaFrom="1" length="1327294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7L8up9HudbttQHFSSnFCdcDuT50sfqgQ54uP/1dBYaRDl1TxZrvk1M5NggyRjuO6m+W6SBqGYG5JKjtzQDZ/Bw=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/appgram/airgap/releases/download/v0.3.1/Airgap-0.3.1.dmg" length="90416169" type="application/octet-stream" sparkle:edSignature="eW5I7jnDnXXEekekYnbMIM5sdQQ5qef5lMUm/5D5iXkLlFC5yTekS/OsAbQLmAIou6OvVW7qbT6HzF6eiDVWAA=="/>
         </item>
         <item>
             <title>0.3.0</title>
@@ -23,7 +20,7 @@
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/appgram/airgap/releases/download/v0.3.1/Airgap-0.3.0.dmg" length="90371379" type="application/octet-stream" sparkle:edSignature="QbKzvcgTOk8XVWfyPG2XQE/mfIqG7bwRJxmib49HqzW02ZHE0kGhxgrLbPhtjknfMgGawCfEMu0+hlf938naDQ=="/>
+            <enclosure url="https://github.com/appgram/airgap/releases/download/v0.3.0/Airgap-0.3.0.dmg" length="90371379" type="application/octet-stream" sparkle:edSignature="QbKzvcgTOk8XVWfyPG2XQE/mfIqG7bwRJxmib49HqzW02ZHE0kGhxgrLbPhtjknfMgGawCfEMu0+hlf938naDQ=="/>
         </item>
     </channel>
 </rss>
