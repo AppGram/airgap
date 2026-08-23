@@ -68,7 +68,7 @@ No accounts. No servers. No telemetry. The model, the index, and your documents 
 Every build is on the [Releases page](https://github.com/appgram/airgap/releases) under a `desktop-v` tag.
 
 > [!NOTE]
-> **Windows shows a SmartScreen warning on first run.** The build is not code-signed yet, and that is not a shortcut. Since June 2023 every publicly trusted code-signing certificate must live in an HSM or hardware token, and the cloud service that replaces it requires a US or Canadian business with three years of verifiable history. Until that clears, choose **More info → Run anyway**. The `.exe` is published from a public, reproducible CI build you can inspect.
+> The Windows build is not code-signed yet, so SmartScreen warns on first run. Choose **More info → Run anyway**.
 
 ## Requirements
 
