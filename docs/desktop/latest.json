@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Airgap Desktop 0.2.0",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT3NHc2FQUFBGRktMYWR0NVIzdVE3VWZSbmZuOHcyUVltWW9qREhEZXJ0WXV4akQyWkxhTnlIczB4UXVpdkR6Smt3R2xiQ29lRjRMZCtTZ3Foc2RxM1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTE3MzQ0CWZpbGU6QWlyZ2FwLmFwcC50YXIuZ3oKWlcxUzNTd0EzT09ROENoZ01mUjRwbGxmSElaV2M5L0N6V0d0eUE1cjNmdFhZM0ljekJZUWd0OHFISWZ4a0xEenJTVm1CblJucFRMRkVabldrSXFkQ2c9PQo=",
+      "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.0/Airgap.app.tar.gz"
+    }
+  },
+  "pub_date": "2026-08-23T20:36:06Z"
+}
