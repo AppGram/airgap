@@ -9,7 +9,7 @@
 Ask questions about your documents. Get precise answers with citations back to the page. Nothing leaves your machine unless you ask it to.
 
 [![Latest release](https://img.shields.io/github/v/release/appgram/airgap?label=download&color=black)](https://airgap.appgram.dev/download)
-[![macOS](https://img.shields.io/badge/macOS-11%2B%20Apple%20Silicon-black)](https://airgap.appgram.dev/download?platform=mac)
+[![macOS](https://img.shields.io/badge/macOS-13.4%2B%20Apple%20Silicon-black)](https://airgap.appgram.dev/download?platform=mac)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11%20x64-black)](https://airgap.appgram.dev/download?platform=windows)
 [![Linux](https://img.shields.io/badge/Linux-x64%20%C2%B7%20arm64-black)](https://airgap.appgram.dev/download?platform=linux)
 
@@ -18,7 +18,11 @@ Ask questions about your documents. Get precise answers with citations back to t
 ---
 
 <div align="center">
-<img src="docs/screenshot.png" alt="Airgap chatting with a PDF, showing source citations and page previews" width="900" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="docs/screenshot-light.png" />
+  <img src="docs/screenshot-light.png" alt="Airgap answering a question about the Linux VFS, with numbered citations beside the cited page of the source PDF" width="900" />
+</picture>
 </div>
 
 ---
@@ -74,7 +78,7 @@ Every build is on the [Releases page](https://github.com/appgram/airgap/releases
 
 | | |
 |---|---|
-| **macOS** | 11.0 (Big Sur) or later, Apple Silicon. Intel Macs are not supported — the ONNX Runtime this build links against no longer ships an Intel macOS binary. |
+| **macOS** | 13.4 (Ventura) or later, Apple Silicon. Intel Macs are not supported: the ONNX Runtime this build links against ships no Intel macOS binary, and the Apple Silicon one it does ship is built for 13.4. |
 | **Windows** | 10 or 11, x64. Windows on ARM runs the x64 build under emulation. |
 | **Linux** | x86-64 or arm64, with a WebKitGTK 4.1 runtime. The AppImage needs no install. |
 | **Disk** | ~1 GB for the app and the embedding model, plus 1–3 GB for whichever language model you choose. |
