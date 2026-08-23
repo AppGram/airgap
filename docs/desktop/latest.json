@@ -5,7 +5,15 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT3NHc2FQUFBGRktMYWR0NVIzdVE3VWZSbmZuOHcyUVltWW9qREhEZXJ0WXV4akQyWkxhTnlIczB4UXVpdkR6Smt3R2xiQ29lRjRMZCtTZ3Foc2RxM1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTE3MzQ0CWZpbGU6QWlyZ2FwLmFwcC50YXIuZ3oKWlcxUzNTd0EzT09ROENoZ01mUjRwbGxmSElaV2M5L0N6V0d0eUE1cjNmdFhZM0ljekJZUWd0OHFISWZ4a0xEenJTVm1CblJucFRMRkVabldrSXFkQ2c9PQo=",
       "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.0/Airgap.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT2dZOTJzdCtLdFZxcmJrYmNUTVZ6ejYrQ25nRjlyczQyaUVvcVVNTHpmOHlyQThyZ2dsOHRIUVJsYTV4RnJDQlVsOHU3R2pFdTgwdDE3NlM2MXhBQlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTE3ODkyCWZpbGU6QWlyZ2FwXzAuMi4wX3g2NC1zZXR1cC5leGUKZ3o4YUtyRmdtd3RHdkI4YVZaUWI1R1h4bVdvVUw4alRZanYyVThzS2tlb3JDbHdLYkc5MzE0ckJHekRQMjU0MlRiczYwKytQVVpTVElFaXNHNU9jQnc9PQo=",
+      "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.0/Airgap_0.2.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT3IrSGJKaWs2TmVjd1FMK1REejh2Y1NualhIYjhLTFlNQjA5djFISlpndG9EaWlXeFRIdnRWa0p4SU5YOFZWclh3K0V1VDVBbk1vRjFkV05rUlV1VUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTE3MjA0CWZpbGU6QWlyZ2FwXzAuMi4wX2FtZDY0LkFwcEltYWdlCkJ2QVVncHBHME1UMVdYWTVzTUVGM1VKTTM3WVBKUUNMQ0srT3Z5WTYwaFNTY3BjQzJ4RXRpak9HeTEzWjVNeGNzMW5JSksybFNMeW5FSUl2MURZN0NBPT0K",
+      "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.0/Airgap_0.2.0_amd64.AppImage"
     }
   },
-  "pub_date": "2026-08-23T20:36:06Z"
+  "pub_date": "2026-08-23T20:48:07Z"
 }
