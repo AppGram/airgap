@@ -5,7 +5,19 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT3FzVm1SdVdad1R4dVRzcGJQdjlEZzNxc0JJN2FjTmZEVXVrYWdCNUpwbFJ0TlJhcGsxZlVxMkc1Y2NIZGNXbXI2SVhweDhBaHpqSFAvd3BXelF6Y2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODgwODE2CWZpbGU6QWlyZ2FwLmFwcC50YXIuZ3oKK0dyWXZaTkg0NWRjQWRhR3JFbEl0Tjk3TDdZRVI2NzJtVVlkankvMlhoSzRQWE4rZHFQUVY4RlRLdnFiTlRFSlBkaXRlcy9rR2RMZHU1Z2VFU3N5QXc9PQo=",
       "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.3/Airgap.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT3VuRCtwa3ptRmZ3cjJtcG51Y2dhbzV1V201WUtRdjdRYi9pVmE3OGFVaGVmbnVuUHg0TG4xYzJqR0I0QXB6MERlN253S1liUmJPS0hrQW43L3Y0QndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODgyNjgzCWZpbGU6QWlyZ2FwXzAuMi4zX3g2NC1zZXR1cC5leGUKOURLbWNQanBQdzVhZ01RK20vR2VPSG9vSTJwRStwYWE5RHBJQitxOEs5Z1k1eUVqQjQ0eXRDb2JBUmN6SFZlajZqMkYzcktCN21VSTg4VFc4N3kxQWc9PQo=",
+      "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.3/Airgap_0.2.3_x64-setup.exe"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT3ZRcis4VERJMW5pcDBpSkhQL3N2dVNod3BGSnNMZ0krQ2hLcVBGdmh0RmViR0VuWFFXNDR3dEtBTWZQYStjREdHT241YUMyWkppTm5EbC9OMWovMlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODgxNzY4CWZpbGU6QWlyZ2FwXzAuMi4zX2FhcmNoNjQuQXBwSW1hZ2UKenlYMmtJMDh2eGVpU0crZHB0Tks1b3UrVHZncFRWaUp1aGxLalN6OWVYOW9wZ1NYVTlmOGNkVnpLcVNEc01DL2R6OThRY1pFb1UxbGc2U0hicmtBQnc9PQo=",
+      "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.3/Airgap_0.2.3_aarch64.AppImage"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjBuY2hXM2xmT2xDK3J2VGRCK2FuU1RkYlpzanBaMG1pUFh1OW9YWmp0eU80emxZNDZ6MGdoTndnRHdWc2VLcCs3QmZhdG9KemN5eFRqeURUbm0reHprOUNxczF5NXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODgyMDYxCWZpbGU6QWlyZ2FwXzAuMi4zX2FtZDY0LkFwcEltYWdlCjFyVDFPOWtKd3pjMVNsUmtvL3BaOTNZNWRPVVl0RWNmc1EwU2JaKzVRUlFReUZPQnAwWVdVbTZFWWc1SS9iNkFKUUpHelNHcGp0Q3FBeHozUno1cENnPT0K",
+      "url": "https://github.com/AppGram/airgap/releases/download/desktop-v0.2.3/Airgap_0.2.3_amd64.AppImage"
     }
   },
-  "pub_date": "2026-09-08T15:20:37Z"
+  "pub_date": "2026-09-08T15:54:29Z"
 }
